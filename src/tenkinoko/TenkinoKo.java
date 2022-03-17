@@ -16,7 +16,7 @@ public class TenkinoKo {
     public static void main(String[] args) {
         // TODO code application logic here
         Menu menu = new Menu();
-        menu.getGUI().setVisible(true);
+        menu.getDGUI().setVisible(true);
     }
     
 }

@@ -5,10 +5,13 @@
         <group>
             <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/tenkinoko/TenkinoKo.java</file>
             <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/tenkinoko/Menu.java</file>
-            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/model/Weather.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/model/Coord.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/tenkinoko/demo.java</file>
             <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/tenkinoko/GUI.java</file>
             <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/controller/HandleAPI.java</file>
             <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/model/JsonResult.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/model/DailyWeather.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/model/Main.java</file>
             <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/TenkinoKo/src/model/City.java</file>
         </group>
     </open-files>

@@ -169,7 +169,7 @@ public class GUI extends javax.swing.JFrame {
 
         cb_city.setBackground(new java.awt.Color(153, 153, 153));
         cb_city.setForeground(new java.awt.Color(255, 255, 255));
-        cb_city.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Hà Nội", "Đà Nẵng", "Sài Gòn" }));
+        cb_city.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Hà Nội", "Ninh Bình", "Thái Bình", "Hải Phòng" }));
         cb_city.setToolTipText("");
         cb_city.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -236,7 +236,8 @@ public class GUI extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new GUI().setVisible(true);
+                //new GUI().setVisible(true);
+                new demo().setVisible(true);
             }
         });
     }

@@ -10,8 +10,8 @@ package model;
  */
 public class Coord {
     
-    private double lat;
-    private double lon;
+    private double lat; // kinh độ
+    private double lon; // vĩ độ
 
     public Coord() {
     }
